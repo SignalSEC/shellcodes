@@ -1,2 +1,2 @@
-# some shellcodes written by signalsec
-ARM &amp; x86 shellcode
+# shellcodes
+ARM &amp; x86 shellcode written by signalsec
